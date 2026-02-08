@@ -1,4 +1,4 @@
-# 🥗 Food Hazard Classification using BERT & Deep Learning
+# Transformer Based Approach for Food Hazard Detection
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![BERT](https://img.shields.io/badge/Model-BERT%20Fine--tuned-orange)
